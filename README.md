@@ -4,5 +4,6 @@
 ## 안녕하세요! 개발분야 희망하는 박준서 입니다!
 
 ###  - 배우고 싶은 프로그램들
-#### - ![harder]("https://filestore.community.support.microsoft.com/api/images/a7899ec5-bd4c-4b38-9233-173397ef577f?upload=true")
-
+<figure>
+    <img src="https://i.esdrop.com/d/ZklKfna5T3.jpg" alt="하얀 강아지">
+</figure>
