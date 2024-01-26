@@ -5,5 +5,5 @@
 
 ###  - 배우고 싶은 프로그램들
 <figure>
-    <img src="https://i.esdrop.com/d/ZklKfna5T3.jpg" alt="하얀 강아지">
+    <img src="file:///C:/Users/USER/Pictures/%EC%A0%9C%EB%AA%A9%20%EC%97%86%EC%9D%8C.png" alt="하얀 강아지">
 </figure>
