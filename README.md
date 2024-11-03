@@ -23,12 +23,11 @@
 ### - 이런 툴들로 작업하고 있어요
 
 VisualStudio소스 코드 편집기를 사용하고 버전관리용 GitHub를 사용하고 있어요<br>
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ## 연락처
 ### 비즈니스
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <span style="font-size:150%">  pppg12jintpt@gmail.com</span><br>
 ### 친해지고 싶어요
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)<span style="font-size:150%">  @pppg12jintpt</span><br>
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)<span style="font-size:150%">pjstop_n</span>
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)<span style="font-size:150%"> pjstop_n</span>
